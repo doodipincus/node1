@@ -1,0 +1,15 @@
+word: Hello,, vowelCount: 2word: this, vowelCount: 1word: is, vowelCount: 1word: a, vowelCount: 0word: random, vowelCount: 1word: text, vowelCount: 1word: file., vowelCount: 2word: 
+
+It, vowelCount: 0word: contains, vowelCount: 2word: bunch, vowelCount: 0word: of, vowelCount: 1word: sentences,, vowelCount: 3word: about, vowelCount: 1word: like, vowelCount: 2word: one, vowelCount: 2word: happy, vowelCount: 0word: kangaroo, vowelCount: 2word: jumping, vowelCount: 1word: rainbow., vowelCount: 3word: 
+
+Another, vowelCount: 2word: over, vowelCount: 2word: sentence, vowelCount: 3word: might, vowelCount: 1word: tell, vowelCount: 1word: you, vowelCount: 1word: the, vowelCount: 1word: time, vowelCount: 2word: robot, vowelCount: 2word: decided, vowelCount: 3word: to, vowelCount: 1word: take, vowelCount: 1word: day, vowelCount: 0word: off, vowelCount: 1word: and, vowelCount: 0word: go, vowelCount: 1word: beach., vowelCount: 1word: 
+
+The, vowelCount: 1word: didn't, vowelCount: 1word: get, vowelCount: 1word: tan,, vowelCount: 0word: course,, vowelCount: 2word: because, vowelCount: 2word: robots, vowelCount: 2word: are, vowelCount: 1word: made, vowelCount: 1word: metal., vowelCount: 1word: 
+
+In, vowelCount: 0word: any, vowelCount: 0word: case,, vowelCount: 1word: very, vowelCount: 1word: 
+
+I, vowelCount: 0word: hope, vowelCount: 2word: find, vowelCount: 1word: it, vowelCount: 1word: entertaining,, vowelCount: 4word: or, vowelCount: 1word: at, vowelCount: 0word: least, vowelCount: 1word: slightly, vowelCount: 1word: amusing., vowelCount: 1word: 
+
+Goodbye, vowelCount: 3word: for, vowelCount: 1word: now!
+
+, vowelCount: 2
